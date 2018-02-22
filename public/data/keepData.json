@@ -1,0 +1,22 @@
+[
+    {
+        "user1" : [
+            {
+                "title": "Mark",
+                "content": "Live and Let live!"
+            },
+            {
+                "title": "Jennings",
+                "content": "Fortune favours the brave!"
+            }
+        ]
+    },
+    {
+        "user2" : [
+            {
+                "title": "Newton",
+                "content": "Habits die hard"
+            }
+        ]
+    }
+]
